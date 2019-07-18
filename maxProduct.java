@@ -1,4 +1,5 @@
-    public int maxProduct(int[] nums) {
+# 动态规划    
+public int maxProduct(int[] nums) {
         int pro = Integer.MIN_VALUE;
         int c_max = 1,c_min = 1;
         for (int i = 0; i < nums.length; i++){
