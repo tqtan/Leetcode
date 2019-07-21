@@ -13,7 +13,7 @@ Leetcode Answer-Java
 
 54.螺旋矩阵  spiralOrder
 
-62.不同路径   uniquePaths
+
 
 66.加一    plusOne
  
@@ -26,3 +26,10 @@ Leetcode Answer-Java
 162.寻找峰值    findPeakElement
 
 279.完全平方数    numSquares
+
+
+# 动态规划
+
+62.不同路径   uniquePaths
+
+63.不同路径II     uniquePathsWithObstacles.
