@@ -23,11 +23,11 @@ Leetcode Answer-Java
 
 162.寻找峰值    findPeakElement
 
-279.完全平方数    numSquares
-
 
 # 动态规划
 
 62.不同路径   uniquePaths
 
-63.不同路径II     uniquePathsWithObstacles.
+63.不同路径II     uniquePathsWithObstacles
+
+279.完全平方数    numSquares
