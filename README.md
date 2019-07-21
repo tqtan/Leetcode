@@ -17,6 +17,8 @@ Leetcode Answer-Java
  
 73.矩阵置零   setZeroes
 
+84.柱状图中最大的矩形   largestRectangleArea
+
 152.乘积最大子序列      maxProduct
 
 162.寻找峰值    findPeakElement
