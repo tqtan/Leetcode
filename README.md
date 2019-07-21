@@ -1,7 +1,7 @@
 # Leetcode
 Leetcode Answer-Java
 
-# Arrays
+# 数组
 
 11.乘最多水容器     maxArea
 
@@ -12,8 +12,6 @@ Leetcode Answer-Java
 48.旋转图像        rotate
 
 54.螺旋矩阵  spiralOrder
-
-
 
 66.加一    plusOne
  
