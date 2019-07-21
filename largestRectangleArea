@@ -1,0 +1,13 @@
+    # O(n平方) 暴力搜索
+    # 注意高为所含所有柱状的Min
+    public int largestRectangleArea(int[] heights) {
+        int vol = 0;
+        for (int i = 0; i < heights.length; i++){
+            int minh = Integer.MAX_VALUE;
+            for (int j = i; j < heights.length; j++){
+                minh = Math.min(minh,heights[j]);
+                vol = Math.max(vol,minh*(j-i+1));  
+            }     
+        }
+        return vol;
+    }
