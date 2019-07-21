@@ -26,6 +26,8 @@ Leetcode Answer-Java
 
 # 动态规划
 
+5.最长回文子串      longestPalindrome（中心扩展法实现）
+
 62.不同路径   uniquePaths
 
 63.不同路径II     uniquePathsWithObstacles
