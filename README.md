@@ -22,3 +22,5 @@ Leetcode Answer-Java
 152.乘积最大子序列      maxProduct
 
 162.寻找峰值    findPeakElement
+
+279.完全平方数    numSquares
