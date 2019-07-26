@@ -23,7 +23,6 @@ Leetcode Answer-Java
 
 162.寻找峰值    findPeakElement
 
-
 # 动态规划
 
 5.最长回文子串      longestPalindrome（中心扩展法实现）
@@ -35,3 +34,7 @@ Leetcode Answer-Java
 139.单词拆分   wordBreak
 
 279.完全平方数    numSquares
+
+# 动态规划
+
+75.颜色分类    sortColors
