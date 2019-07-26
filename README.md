@@ -35,6 +35,6 @@ Leetcode Answer-Java
 
 279.完全平方数    numSquares
 
-# 动态规划
+# 排序
 
 75.颜色分类    sortColors
