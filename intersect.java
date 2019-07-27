@@ -1,5 +1,6 @@
 # 两个数组的交集 II
-# 先排序预处理，再遍历两个数组，若相等则加入list，否则元素较小的数组指针+1
+# 法一：先排序预处理，再遍历两个数组，若相等则加入list，否则元素较小的数组指针+1
+# 法二：将nums1存为hashmap，统计其每个元素（key）的计数（value）；遍历nums2若其元素存在于map（map.containsKey）则加入list且map计数-1
 public int[] intersect(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
