@@ -51,6 +51,8 @@ Leetcode Answer-Java
 
 21.合并两个有序链表  mergeTwoLists
 
+141.环形链表  hasCycle             #判断是否有环、160相交链表思路类似
+
 148.排序链表  sortList
 
 160.相交链表  getIntersectionNode
