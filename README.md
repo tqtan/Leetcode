@@ -49,6 +49,8 @@ Leetcode Answer-Java
 
 # 链表
 
+148.排序链表  sortList
+
 206.反转链表    reverseList
 
 237.删除链表中的节点   deleteNode
