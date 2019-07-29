@@ -53,6 +53,8 @@ Leetcode Answer-Java
 
 21.合并两个有序链表  mergeTwoLists
 
+23.合并K个排序链表   mergeKLists
+
 141.环形链表  hasCycle             #判断是否有环、160相交链表思路类似
 
 148.排序链表  sortList
