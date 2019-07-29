@@ -72,3 +72,5 @@ Leetcode Answer-Java
 94.二叉树的中序遍历   inorderTraversal
 
 102.二叉树的层次遍历   levelOrder
+
+104.二叉树的最大深度  maxDepth
