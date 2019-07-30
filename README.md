@@ -76,3 +76,5 @@ Leetcode Answer-Java
 104.二叉树的最大深度  maxDepth
 
 105.从前序与中序遍历序列构造二叉树 buildTree
+
+230.二叉搜索树中第K小的元素     kthSmallest
