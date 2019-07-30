@@ -74,3 +74,5 @@ Leetcode Answer-Java
 102.二叉树的层次遍历   levelOrder
 
 104.二叉树的最大深度  maxDepth
+
+105.从前序与中序遍历序列构造二叉树 buildTree
