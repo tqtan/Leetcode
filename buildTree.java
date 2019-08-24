@@ -9,9 +9,9 @@
         if (count < 1) return null;
         int r = preorder[preindex];
         int i = 0;
-        while (r != inorder[i]) i++;
+        while (r != inorder[i+inindex]) i++;
         TreeNode root = new TreeNode(r);
-        root.left = build(preorder,inorder,preindex+1,inindex,i-inindex);
-        root.right = build(preorder,inorder,preindex+1+i-inindex,i+1,count-i+inindex-1);
+        root.left = build(preorder,inorder,preindex+1,inindex,i);
+        root.right = build(preorder,inorder,preindex+1+i,inindex+i+1,count-i-1);
         return root;
     }
