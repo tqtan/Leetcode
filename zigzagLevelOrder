@@ -1,0 +1,23 @@
+    # 锯齿形层次遍历
+    # 类似层次遍历，队列访问，+标识是从左到右（直接顺序加入list）还是从右到左（倒序加入list）
+    public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
+        if (root == null) return new ArrayList<List<Integer>>();
+        List<List<Integer>> res = new ArrayList<>();
+        Queue<TreeNode> Q = new LinkedList<>();
+        Q.add(root);
+        int lr = 0;
+        while (!Q.isEmpty()){
+            lr++;
+            int num = Q.size();
+            List<Integer> list = new ArrayList<>();
+            for (int i = 0; i < num; i++){
+                TreeNode cur = Q.poll();
+                if (lr % 2 == 1) list.add(cur.val);
+                else list.add(0,cur.val);
+                if (cur.left != null) Q.add(cur.left);
+                if (cur.right != null) Q.add(cur.right);
+            }
+            res.add(list);
+        }
+        return res;
+    }
