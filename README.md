@@ -69,6 +69,8 @@ Leetcode Answer-Java
 
 237.删除链表中的节点   deleteNode
 
+328.奇偶链表   oddEvenList
+
 # 树
 
 94.二叉树的中序遍历   inorderTraversal
