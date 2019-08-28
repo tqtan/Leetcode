@@ -65,6 +65,8 @@ Leetcode Answer-Java
 
 160.相交链表  getIntersectionNode
 
+203.移除链表元素    removeElements
+
 206.反转链表    reverseList
 
 234.回文链表   isPalindrome
