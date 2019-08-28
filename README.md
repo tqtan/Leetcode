@@ -57,6 +57,8 @@ Leetcode Answer-Java
 
 23.合并K个排序链表   mergeKLists
 
+24.两两交换链表中的节点     swapPairs
+
 141.环形链表  hasCycle             #判断是否有环、160相交链表思路类似
 
 148.排序链表  sortList
