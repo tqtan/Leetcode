@@ -99,4 +99,6 @@ Leetcode Answer-Java
 
 145.二叉树的后序遍历   postorderTraversal
 
+226.翻转二叉树   invertTree
+
 230.二叉搜索树中第K小的元素     kthSmallest
