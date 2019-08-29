@@ -93,4 +93,6 @@ Leetcode Answer-Java
 
 124.二叉树中的最大路径和   maxPathSum
 
+144.二叉树的前序遍历   preorderTraversal
+
 230.二叉搜索树中第K小的元素     kthSmallest
