@@ -91,6 +91,8 @@ Leetcode Answer-Java
 
 108.将有序数组转换为二叉搜索树 sortedArrayToBST
 
+110.平衡二叉树  isBalanced
+
 124.二叉树中的最大路径和   maxPathSum
 
 144.二叉树的前序遍历   preorderTraversal
