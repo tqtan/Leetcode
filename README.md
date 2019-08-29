@@ -95,4 +95,6 @@ Leetcode Answer-Java
 
 144.二叉树的前序遍历   preorderTraversal
 
+145.二叉树的后序遍历   postorderTraversal
+
 230.二叉搜索树中第K小的元素     kthSmallest
