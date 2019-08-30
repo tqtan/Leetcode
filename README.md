@@ -106,3 +106,5 @@ Leetcode Answer-Java
 230.二叉搜索树中第K小的元素     kthSmallest
 
 543.二叉树的直径 diameterOfBinaryTree
+
+617.合并二叉树 mergeTrees
