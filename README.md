@@ -79,6 +79,8 @@ Leetcode Answer-Java
 
 94.二叉树的中序遍历   inorderTraversal
 
+100.相同的树 isSameTree
+
 101.对称二叉树    isSymmetric
  
 102.二叉树的层次遍历   levelOrder
