@@ -104,3 +104,5 @@ Leetcode Answer-Java
 226.翻转二叉树   invertTree
 
 230.二叉搜索树中第K小的元素     kthSmallest
+
+543.二叉树的直径 diameterOfBinaryTree
