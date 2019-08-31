@@ -113,6 +113,8 @@ Leetcode Answer-Java
 
 230.二叉搜索树中第K小的元素     kthSmallest
 
+257.二叉树的所有路径  binaryTreePaths
+
 437.路径总和III  pathSum
 
 543.二叉树的直径 diameterOfBinaryTree
