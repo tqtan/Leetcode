@@ -97,6 +97,8 @@ Leetcode Answer-Java
 
 110.平衡二叉树  isBalanced
 
+111.二叉树的最小深度 minDepth
+
 112.路径总和   hasPathSum
 
 113.路径总和II  pathSum2
