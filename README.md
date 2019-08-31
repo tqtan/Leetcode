@@ -122,3 +122,5 @@ Leetcode Answer-Java
 543.二叉树的直径 diameterOfBinaryTree
 
 617.合并二叉树 mergeTrees
+
+938.二叉搜索树的范围和  rangeSumBST
