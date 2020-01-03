@@ -7,6 +7,8 @@ Leetcode Answer-Java
 
 26.删除排序数组中的重复项     removeDuplicates
 
+33.搜索旋转排序数组       search
+
 34.在排序数组中查找元素的第一个和最后一个位置   searchRange
 
 48.旋转图像        rotate
