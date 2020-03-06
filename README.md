@@ -61,6 +61,8 @@ Leetcode Answer-Java
 
 24.两两交换链表中的节点     swapPairs
 
+61.旋转链表       rotateRight
+
 141.环形链表  hasCycle             #判断是否有环、160相交链表思路类似
 
 148.排序链表  sortList
